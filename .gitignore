@@ -220,4 +220,6 @@ $RECYCLE.BIN/
 
 System Volume Information/
 
+boot_out.txt
+!lib/*.mpy
 secrets.py
